@@ -1,6 +1,6 @@
 # Physical computing potentiometer tutorials - Timer 1 based PWM, mode selector, motor control  
 
-#######. How to filter and code for potentiometers with Arduino
+#######. How to filter and code for using potentiometers with Arduino
 
 ### Setup
 

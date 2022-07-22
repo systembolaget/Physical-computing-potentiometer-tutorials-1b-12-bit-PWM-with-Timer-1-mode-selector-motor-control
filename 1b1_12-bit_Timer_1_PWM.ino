@@ -1,4 +1,4 @@
-// Tutorial 1b1. 12-bit PWM with Timer 1
+// Tutorial 1b1. 12-bit Timer 1 PWM
 
 // Main parts: Adafruit Metro Mini, potentiometer, capacitor, COB LED,
 // LED driver, heat-sink

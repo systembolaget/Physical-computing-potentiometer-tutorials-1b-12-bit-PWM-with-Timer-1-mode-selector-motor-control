@@ -1,4 +1,4 @@
-# Physical computing potentiometer tutorials - 12-bit PWM with Timer 1, mode selector, motor control  
+# Physical computing potentiometer tutorials - 12-bit Timer 1 PWM, mode selector, motor control, filter  
 
 Control anything with a single potentiometer. How to filter and code for using potentiometers with Arduino
 
@@ -30,8 +30,8 @@ You can click the image to play the associated YouTube video
 €  4,00 Half-size transparent breadboard
 €  2,00 Breadboard mini modular black
 €  1,00 Jumper cables
-€  1,00 10 µF 10V el. cap, 1 47Ω, 2 220Ω & 1 330Ω resistors
-€ 96,00
+€  2,00 10 µF & 1000 µF 10V el. cap, 1 47Ω, 2 220Ω & 1 330Ω resistors
+€ 97,00
 </pre>  
 
 ### Useful links  

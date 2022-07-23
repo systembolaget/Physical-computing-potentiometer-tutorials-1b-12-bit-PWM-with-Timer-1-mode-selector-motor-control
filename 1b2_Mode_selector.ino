@@ -101,7 +101,6 @@ void loop()
     // And keep the corresponding indicator LED switched on
     digitalWrite(pinsLED[3], HIGH); // Red LED
   }
-
   // Finally, when the function's running time has expired
   else
   {

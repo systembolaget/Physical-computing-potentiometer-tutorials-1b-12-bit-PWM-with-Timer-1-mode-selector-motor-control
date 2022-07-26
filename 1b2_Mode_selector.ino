@@ -19,7 +19,7 @@ bool lastSwitchState = HIGH; // Tracks the last switch state, open (= HIGH) at s
 void setup()
 {
   // Serial printing only necessary to understand which functions run
-  Serial.begin(9600); delay(3000);
+  Serial.begin(9600); delay(5000);
 
   // Loop through the array with the LED pin numbers
   for (byte i = 0; i < numLEDs; i++)

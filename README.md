@@ -30,7 +30,7 @@ You can click the image to play the associated YouTube video
 €  4,00 Half-size transparent breadboard
 €  2,00 Breadboard mini modular black
 €  1,00 Jumper cables
-€  2,00 10 µF & 1000 µF 10V el. cap, 1 47Ω, 2 220Ω & 1 330Ω resistors
+€  2,00 10, 100 & 1000 µF 16V el. cps, 47, 2x220 & 330Ω res.
 € 97,00
 </pre>  
 

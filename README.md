@@ -10,6 +10,8 @@ You can click the image to play the associated YouTube video
 
 ### Schematic
 
+All four schematics are in the "Assets" folder
+
 ![](Assets/#######.png)
 
 ### BOM

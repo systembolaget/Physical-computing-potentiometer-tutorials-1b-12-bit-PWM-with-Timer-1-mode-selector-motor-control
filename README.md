@@ -8,7 +8,7 @@ You can click the image to play the associated YouTube video
 
 [![Alt text](Assets/#######.jpg)](https://www.youtube.com/watch?v=#######)
 
-### Schematic
+### Schematics
 
 All four schematics are in the "Assets" folder
 

@@ -6,7 +6,7 @@ Control anything with a single potentiometer. How to code for using potentiomete
 
 You can click the image to play the associated YouTube video
 
-[![Alt text](Assets/1b%20result.jpg)](https://www.youtube.com/watch?v=#######)
+[![Alt text](Assets/1b%20result.jpg)](https://www.youtube.com/watch?v=YTFz2zIRLBs)
 
 ### Schematics
 
